@@ -19,9 +19,9 @@ def main():
     answer = input("Would you like a compliment? ")
 
     if answer == "yes":
-        print("You have wonderful eyes. ")
+        print("You have wonderful eyes.")
 
-    print("Thank you for playing. ")
+    print("Thank you for playing.")
 
 main()
 
