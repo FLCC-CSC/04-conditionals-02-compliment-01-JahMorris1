@@ -1,8 +1,8 @@
 # FILE NAME - compliment_01.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Jahni Morris
+# DATE: February 22, 2026
+# BRIEF DESCRIPTION: the user is prompted whether they want a compliment or not 
 
 
 
@@ -14,6 +14,16 @@
 
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
+
+def main():
+    answer = input("Would you like a compliment? ")
+
+    if answer == "yes":
+        print("You have wonderful eyes. ")
+
+    print("Thank you for playing. ")
+
+main()
 
 
 
@@ -66,12 +76,12 @@ Thank you for playing.
 '''
 
 1. On a scale of 1 to 10 (where 10 is the hardest), how would you rate this lab?
-
+3
 
 
 
 2. What was the hardest part of this lab?
-
+Probably structuring the flow
 
 
 
